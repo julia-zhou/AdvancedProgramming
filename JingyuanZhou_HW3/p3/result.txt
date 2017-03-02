@@ -1,0 +1,1 @@
+(b)When number of numbers is small, I found that smaller number of arrays work better, but I don't think that'll be the case for larger queries. 
